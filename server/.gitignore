@@ -1,0 +1,10 @@
++* .gitignore for fastAPI
+/venv
+/__pycache__
+/.pytest_cache
+/bin
+/lib
+/include
+*.pyc
+*.pyo
+/lib64
